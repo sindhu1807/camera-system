@@ -44,6 +44,9 @@ python motion_capture.py
 * Motion frames: `motion_YYYYMMDD_HHMMSS.jpg`
 * Regular frames: `regular_YYYYMMDD_HHMMSS.jpg`
 
+## Screenshot
+![Screenshot (137)](https://github.com/user-attachments/assets/be43707b-2a87-40d2-a0ca-442fa9b6b739)
+
 ## Notes
 
 * Motion detection sensitivity is adjustable via:
